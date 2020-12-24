@@ -1,0 +1,8 @@
+/target/
+/.idea/
+/out/
+/logs/
+/application.pid
+/*/target/
+/*/*.iml
+*.iml
